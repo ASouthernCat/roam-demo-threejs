@@ -1,10 +1,10 @@
 # Description
 
-漫游系统-three.js
+漫游系统-three.js  
 主要参考：
-https://threejs.org/examples/?q=fps#games_fps
-https://threejs.org/examples/#webgl_animation_skinning_additive_blending
-http://www.webgl3d.cn/pages/ef6fe2/
+https://threejs.org/examples/?q=fps#games_fps  
+https://threejs.org/examples/#webgl_animation_skinning_additive_blending  
+http://www.webgl3d.cn/pages/ef6fe2/  
 
 
 # Vue 3 + Vite
