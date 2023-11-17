@@ -1,6 +1,7 @@
 # Description
 
 漫游系统-three.js  
+![preview](./preview.png)  
 主要参考：
 https://threejs.org/examples/?q=fps#games_fps  
 https://threejs.org/examples/#webgl_animation_skinning_additive_blending  
